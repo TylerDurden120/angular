@@ -1,0 +1,11 @@
+{
+  "name": "CloudRepo",
+  "description": "A repository for building, optimizing, and innovating in cloud computing. Explore scalable architectures, automation, and next-gen cloud solutions.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/CloudRepo.git"
+  },
+  "license": "MIT",
+  "keywords": ["cloud", "computing", "automation", "scalability", "devops"]
+}
